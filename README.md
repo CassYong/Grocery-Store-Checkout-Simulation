@@ -15,7 +15,7 @@ A simulation of grocery store checkout lines using multiple queues to model cust
 
 **Tech Stack**
 
-🔹 C++ (or your preferred language)
+🔹 C
 
 🔹 Data Structures: Queue, Vector
 
